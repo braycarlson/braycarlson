@@ -19,10 +19,7 @@ I'm a undergraduate student at the University of Lethbridge.
 ## Operating System(s)
 
 [![Windows](https://img.shields.io/badge/Windows-8ec07c?style=for-the-badge&logo=windows&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
-[![Linux](https://img.shields.io/badge/Linux-8ec07c?style=for-the-badge&logo=linux&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
+[![](https://img.shields.io/badge/Linux-8ec07c?style=for-the-badge&logo=linux&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 
-<p align="center">
-    <a href="https://github.com/braycarlson">
-        <img src="https://komarev.com/ghpvc/?username=braycarlson&color=fe8019&style=for-the-badge)" />
-    </a>
-</p>
+
+[![Counter](https://komarev.com/ghpvc/?username=braycarlson&color=fe8019&style=for-the-badge)](https://github.com/braycarlson)
