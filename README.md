@@ -30,7 +30,3 @@
 
 [![Windows](https://img.shields.io/badge/Windows-8ec07c?style=for-the-badge&logo=windows&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 [![Linux](https://img.shields.io/badge/Linux-8ec07c?style=for-the-badge&logo=linux&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
-
-## Spotify
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=braycarlson&unique={true|1|on|yes})
