@@ -31,4 +31,4 @@ I'm a undergraduate student at the University of Lethbridge.
 <br>
 <br>
 
-[![Counter](https://komarev.com/ghpvc/?username=braycarlson&color=fe8019&style=for-the-badge)](https://github.com/braycarlson)
+[![Visitor](https://komarev.com/ghpvc/?username=braycarlson&color=fe8019&style=for-the-badge&label=Visitor)](https://github.com/braycarlson)
