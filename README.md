@@ -16,10 +16,19 @@ I'm a undergraduate student at the University of Lethbridge.
 [![PyTorch](https://img.shields.io/badge/PyTorch-8ec07c?style=for-the-badge&logo=pytorch&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 [![Keras](https://img.shields.io/badge/Keras-8ec07c?style=for-the-badge&logo=keras&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 
+## Database(s)
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8ec07c?style=for-the-badge&logo=postgresql&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
+[![MySQL](https://img.shields.io/badge/MySQL-8ec07c?style=for-the-badge&logo=mysql&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
+[![Redis](https://img.shields.io/badge/Redis-8ec07c?style=for-the-badge&logo=redis&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
+[![MongoDB](https://img.shields.io/badge/MongoDB-8ec07c?style=for-the-badge&logo=mongodb&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
+
 ## Operating System(s)
 
 [![Windows](https://img.shields.io/badge/Windows-8ec07c?style=for-the-badge&logo=windows&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
-[![](https://img.shields.io/badge/Linux-8ec07c?style=for-the-badge&logo=linux&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
+[![Linux](https://img.shields.io/badge/Linux-8ec07c?style=for-the-badge&logo=linux&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 
+<br>
+<br>
 
 [![Counter](https://komarev.com/ghpvc/?username=braycarlson&color=fe8019&style=for-the-badge)](https://github.com/braycarlson)
