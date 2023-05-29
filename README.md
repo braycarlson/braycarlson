@@ -17,7 +17,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-8ec07c?style=for-the-badge&logo=pandas&logoColor=fe8019&color=282828)](https://pandas.pydata.org/docs/index.html)
 [![Numpy](https://img.shields.io/badge/Numpy-8ec07c?style=for-the-badge&logo=numpy&logoColor=fe8019&color=282828)](https://numpy.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-8ec07c?style=for-the-badge&logo=pytorch&logoColor=fe8019&color=282828)](https://pytorch.org/)
-[![Keras](https://keras.io/)]
+[![Keras](https://img.shields.io/badge/Keras-8ec07c?style=for-the-badge&logo=keras&logoColor=fe8019&color=282828)](https://keras.io/)
 
 ## Database(s)
 
