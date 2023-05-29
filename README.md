@@ -3,6 +3,7 @@
 - I am a undergraduate student at the University of Lethbridge.
 - I am a research assistant in the [Tata Lab](https://tatalab.ca/).
 - I am a former member of [The Birdsong Lab](http://david-logue.squarespace.com/).
+- I am interested in research, software development and machine learning
 
 ## Language(s)
 
@@ -33,7 +34,3 @@
 ## Spotify
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=braycarlson&unique={true|1|on|yes})
-
-<br><br>
-
-[![Visitor](https://komarev.com/ghpvc/?username=braycarlson&color=fe8019&style=for-the-badge&label=Visitor)](https://github.com/braycarlson)
