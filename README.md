@@ -14,7 +14,7 @@ I'm a undergraduate student at the University of Lethbridge.
 [![Pandas](https://img.shields.io/badge/Pandas-8ec07c?style=for-the-badge&logo=pandas&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 [![Numpy](https://img.shields.io/badge/Numpy-8ec07c?style=for-the-badge&logo=numpy&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 [![PyTorch](https://img.shields.io/badge/PyTorch-8ec07c?style=for-the-badge&logo=pytorch&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
-[![TorchAudio](https://img.shields.io/badge/Torchaudio-8ec07c?style=for-the-badgelogo=pytorch&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
+[![TorchAudio](https://img.shields.io/badge/Torchaudio-8ec07c?style=for-the-badge&logo=torchaudio&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 [![Keras](https://img.shields.io/badge/Keras-8ec07c?style=for-the-badge&logo=keras&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 
 ## Operating System(s)
