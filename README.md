@@ -1,8 +1,8 @@
 # Hi, I'm Brayden.
 
-- I'm a undergraduate student at the University of Lethbridge.
+- I am a undergraduate student at the University of Lethbridge.
 - I am a research assistant in the [Tata Lab](https://tatalab.ca/).
-- A former member of [The Birdsong Lab](http://david-logue.squarespace.com/).
+- I am a former member of [The Birdsong Lab](http://david-logue.squarespace.com/).
 
 ## Language(s)
 
@@ -30,7 +30,7 @@
 [![Windows](https://img.shields.io/badge/Windows-8ec07c?style=for-the-badge&logo=windows&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 [![Linux](https://img.shields.io/badge/Linux-8ec07c?style=for-the-badge&logo=linux&logoColor=fe8019&color=282828)](https://github.com/braycarlson)
 
-<br>
+## Spotify
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=braycarlson&unique={true|1|on|yes})
 
