@@ -29,4 +29,6 @@
 ## Operating System(s)
 
 [![Windows](https://img.shields.io/badge/Windows-8ec07c?style=for-the-badge&logo=windows&logoColor=fe8019&color=282828)](https://www.microsoft.com/en-ca/windows/windows-11)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-8ec07c?style=for-the-badge&logo=ubuntu&logoColor=fe8019&color=282828)](https://ubuntu.com/)
+[![ArchLinux](https://img.shields.io/badge/ArchLinux-8ec07c?style=for-the-badge&logo=arch-linux&logoColor=fe8019&color=282828)](https://ubuntu.com/)
 [![Linux](https://img.shields.io/badge/Linux-8ec07c?style=for-the-badge&logo=linux&logoColor=fe8019&color=282828)](https://ubuntu.com/)
