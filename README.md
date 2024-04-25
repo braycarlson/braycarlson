@@ -1,7 +1,7 @@
 # Hi, I'm Brayden.
 
-- I am an undergraduate student at the University of Lethbridge.
-- I am a research assistant in the [Tata Lab](https://tatalab.ca/) and a former member of [The Birdsong Lab](http://david-logue.squarespace.com/).
+- I am a former student at the University of Lethbridge.
+- I was a research assistant in the [Tata Lab](https://tatalab.ca/) and a former member of [The Birdsong Lab](http://david-logue.squarespace.com/).
 - I am interested in research, software development, data science, and machine learning.
 
 <br>
